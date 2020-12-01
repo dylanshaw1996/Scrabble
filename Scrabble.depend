@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584913549 source:c:\users\dylan.desktop-ltq2d4a\desktop\college\year2 semester 2\c programming\scrabble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
